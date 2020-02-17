@@ -8,7 +8,7 @@ import java.net.*;
 import java.util.*;
 import java.util.Date;
 
-public class UDPClient {
+public class Client {
 public static void main(String[] args) throws IOException {
 
         // create a UDP socket

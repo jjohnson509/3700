@@ -7,7 +7,7 @@ import java.io.*;
 import java.net.*;
 import java.util.*;
 
-public class UDPServer {
+public class Server {
 public static void main(String[] args) throws IOException {
 
         String[] itemID = {"00001", "00002", "00003", "00004", "00005", "00006"};
@@ -74,4 +74,18 @@ public static String returnItems(String itemNum, long timeReceived){
         return temp;
 }
 
+// public static void quoteToClient(String itemNum){
+//
+//         String format = "|%1$-10s|%2$-30s|%3$-20s|%4$-20s|\n";
+//         String format1 = "+%1$-10s+%2$-30s+%3$-20s+%4$-20s+\n";
+//         System.out.format(format1, "----------", "-----------------------------",
+//                           "--------------------", "--------------------");
+//         System.out.format(format, "Item ID", "Item Description", "Unit Price", "Inventory");
+//         System.out.format(format1, "----------", "-----------------------------",
+//                           "--------------------", "--------------------");
+//         int temp = Integer.parseInt(itemNum) - 1;
+//         System.out.format(format, itemID[temp], itemDescr[temp], itemPrice[temp], itemInv[temp]);
+//         System.out.format(format1, "----------", "-----------------------------",
+//                           "--------------------", "--------------------");
+// }
 }

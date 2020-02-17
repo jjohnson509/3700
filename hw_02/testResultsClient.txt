@@ -1,0 +1,83 @@
+Please input the DNS or IP of the server machine.
+
+
++----------+------------------------------+
+|Item ID   |Item Description              |
++----------+------------------------------+
+|00001     |New Inspiron 15               |
+|00002     |New Inspiron 17               |
+|00003     |New Inspiron 15R              |
+|00004     |New Inspiron 15z Ultrabook    |
+|00005     |XPS 14 Ultrabook              |
+|00006     |New XPS 12 UltrabookXPS       |
++----------+------------------------------+
+
+
+Please enter an Item ID listed above:
+Please enter an Item ID listed above:
+Please enter an Item ID listed above:
+Please enter an Item ID listed above:
+Please enter an Item ID listed above:
+Please enter one of the listed Item ID's.
++----------+------------------------------+
+|Item ID   |Item Description              |
++----------+------------------------------+
+|00001     |New Inspiron 15               |
+|00002     |New Inspiron 17               |
+|00003     |New Inspiron 15R              |
+|00004     |New Inspiron 15z Ultrabook    |
+|00005     |XPS 14 Ultrabook              |
+|00006     |New XPS 12 UltrabookXPS       |
++----------+------------------------------+
+Please enter an Item ID listed above:
+Input is valid!
++----------+--------------------------+----------+----------+--------------+
+|Item ID   |Item Description          |Unit Price|Inventory |RTT of Query  |
++----------+--------------------------+----------+----------+--------------+
+|00004     |New Inspiron 15z Ultrabook|$749.99   |315       | 2 ms         |
++----------+--------------------------+----------+----------+--------------+
+Press N to quit, any key to continue.
+
+
++----------+------------------------------+
+|Item ID   |Item Description              |
++----------+------------------------------+
+|00001     |New Inspiron 15               |
+|00002     |New Inspiron 17               |
+|00003     |New Inspiron 15R              |
+|00004     |New Inspiron 15z Ultrabook    |
+|00005     |XPS 14 Ultrabook              |
+|00006     |New XPS 12 UltrabookXPS       |
++----------+------------------------------+
+
+
+Please enter an Item ID listed above:
+Input is valid!
++----------+--------------------------+----------+----------+--------------+
+|Item ID   |Item Description          |Unit Price|Inventory |RTT of Query  |
++----------+--------------------------+----------+----------+--------------+
+|00001     |New Inspiron 15           |$379.99   |157       | 1 ms         |
++----------+--------------------------+----------+----------+--------------+
+Press N to quit, any key to continue.
+
+
++----------+------------------------------+
+|Item ID   |Item Description              |
++----------+------------------------------+
+|00001     |New Inspiron 15               |
+|00002     |New Inspiron 17               |
+|00003     |New Inspiron 15R              |
+|00004     |New Inspiron 15z Ultrabook    |
+|00005     |XPS 14 Ultrabook              |
+|00006     |New XPS 12 UltrabookXPS       |
++----------+------------------------------+
+
+
+Please enter an Item ID listed above:
+Input is valid!
++----------+--------------------------+----------+----------+--------------+
+|Item ID   |Item Description          |Unit Price|Inventory |RTT of Query  |
++----------+--------------------------+----------+----------+--------------+
+|00004     |New Inspiron 15z Ultrabook|$749.99   |315       | 3 ms         |
++----------+--------------------------+----------+----------+--------------+
+Press N to quit, any key to continue.
